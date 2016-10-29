@@ -43,8 +43,6 @@ import com.qualcomm.ftccommon.DbgLog; //copied from old
 import com.qualcomm.robotcore.eventloop.opmode.OpMode; //copied from old
 import com.qualcomm.robotcore.hardware.DcMotorController; //copied from old
 
-
-
 import org.firstinspires.ftc.robotcontroller.external.samples.HardwarePushbot;
 
 /**
